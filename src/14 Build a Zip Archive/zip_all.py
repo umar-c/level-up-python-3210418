@@ -14,4 +14,4 @@ def zip_all(search_dir, extension_list, output_path):
 
 # commands used in solution video for reference
 if __name__ == '__main__':
-    zip_all('.\\my_stuff', ['.jpg','.txt'], 'my_stuff.zip')
+    zip_all('./my_stuff', ['.jpg','.txt'], 'my_stuff.zip')
